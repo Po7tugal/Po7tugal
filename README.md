@@ -22,6 +22,7 @@ Atualmente estou dando meus primeiros passos no desenvolvimento, criando projeto
 ⸻
 
 📫 Como me encontrar
+
 	• Email: filipeportugal2010@gmail.com
 	• LinkedIn: (em breve)
 
