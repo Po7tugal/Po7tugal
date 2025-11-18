@@ -1,16 +1,41 @@
-## Hi there 👋
+👋 Olá! Eu sou o Filipe Portugal
 
-<!--
-**Po7tugal/Po7tugal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de programação, aprendendo e evoluindo um pouco todos os dias.
+Atualmente estou dando meus primeiros passos no desenvolvimento, criando projetos para praticar e explorando diferentes áreas da tecnologia.
 
-Here are some ideas to get you started:
+⸻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 O que estou estudando atualmente
+	•	Lógica de Programação
+	•	Portugol
+	•	HTML
+	•	Visual Studio Code (VS Code)
+
+⸻
+
+🛠 Tecnologias que já conheço
+	•	Portugol
+	•	HTML
+	•	Conceitos iniciais de lógica
+
+⸻
+
+🎯 Objetivos do momento
+	•	Criar projetos simples para praticar
+	•	Melhorar meu raciocínio lógico
+	•	Aprender mais sobre desenvolvimento web
+	•	Montar meu portfólio e crescer como desenvolvedor
+
+⸻
+
+📫 Como me encontrar
+	•	Email: filipeportugal2010@gmail.com
+	•	LinkedIn: (em breve)
+
+⸻
+
+✨ Sobre mim
+	•	🌱 Aprendendo um pouco de tudo
+	•	🔍 Curioso e sempre disposto a melhorar
+	•	💻 Gosto de transformar ideias em código
+	•	🚀 Buscando minha primeira oportunidade no mundo da tecnologia
