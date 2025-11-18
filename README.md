@@ -13,13 +13,6 @@ Atualmente estou dando meus primeiros passos no desenvolvimento, criando projeto
 
 ⸻
 
-🛠 Tecnologias que já conheço
-	•	Portugol
-	•	HTML
-	•	Conceitos iniciais de lógica
-
-⸻
-
 🎯 Objetivos do momento
 	•	Criar projetos simples para praticar
 	•	Melhorar meu raciocínio lógico
@@ -29,13 +22,10 @@ Atualmente estou dando meus primeiros passos no desenvolvimento, criando projeto
 ⸻
 
 📫 Como me encontrar
-	•	Email: filipeportugal2010@gmail.com
-	•	LinkedIn: (em breve)
+	• Email: filipeportugal2010@gmail.com
+	• LinkedIn: (em breve)
 
 ⸻
 
 ✨ Sobre mim
-	•	🌱 Aprendendo um pouco de tudo
-	•	🔍 Curioso e sempre disposto a melhorar
-	•	💻 Gosto de transformar ideias em código
-	•	🚀 Buscando minha primeira oportunidade no mundo da tecnologia
+	•	Sou dedicado, perseverante e impulsionado pela ideia de transformar ideias em realidade, disposto a aprender cada vez mais. Sou apaixonado na criação de jogos e aplicações e gostaria de me aprofundar mais na área, no momento estudando para alcançar essas metas.
