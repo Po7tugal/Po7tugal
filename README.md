@@ -1,35 +1,34 @@
-# Filipe Portugal
+# 👨‍💻 Filipe Portugal
 
-Sou estudante de programação, aprendendo e a evoluir um pouco todos os dias.
-Atualmente, estou a dar os meus primeiros passos no desenvolvimento, criando projetos para praticar e a explorar diferentes áreas da tecnologia.
+I'm a programming student, learning and improving a little more every day. I'm currently taking my first steps in development by creating small projects, practicing consistently, and exploring different areas of technology.
 
-⸻
+---
 
-🚀 O que estou a estudar atualmente
+## 🚀 What I'm Currently Learning
 
-*   Lógica de Programação
-*   Portugol
-*   HTML
-*   Visual Studio Code (VS Code)
+- **Programming Logic**  
+- **Portugol**  
+- **HTML**  
+- **Visual Studio Code (VS Code)**
 
-⸻
+---
 
-🎯 Objetivos do momento
+## 🎯 Current Goals
 
-*   Criar projetos simples para praticar
-*   Melhorar o meu raciocínio lógico
-*   Aprender mais sobre desenvolvimento web
-*   Montar o meu portfólio e crescer como desenvolvedor
+- Build simple projects to practice  
+- Improve my logical thinking  
+- Learn more about web development  
+- Create my portfolio and grow as a developer  
 
-⸻
+---
 
-📫 Como me encontrar
+## 📫 How to Reach Me
 
-*   Email: filipeportugal2010@gmail.com
-*   LinkedIn: https://www.linkedin.com/me?trk=p_mwlite_feed-secondary_nav
+- **Email:** filipeportugal2010@gmail.com  
+- **LinkedIn:** [My LinkedIn Profile](https://www.linkedin.com/me?trk=p_mwlite_feed-secondary_nav)
 
-⸻
+---
 
-✨ Sobre mim
+## ✨ About Me
 
-*   Sou dedicado, perseverante e impulsionado pela ideia de transformar ideias em realidade, disposto a aprender cada vez mais. Sou apaixonado pela criação de jogos e aplicações e gostaria de me aprofundar mais na área, estudando neste momento para alcançar essas metas.
+I'm dedicated, persistent, and driven by the idea of turning ideas into reality. I'm always open to learning more and evolving as a developer. I'm passionate about creating games and applications, and I'm currently studying to deepen my knowledge and achieve these goals.
