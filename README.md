@@ -4,20 +4,11 @@ I'm a programming student, learning and improving a little more every day. I'm c
 
 ---
 
-## 🚀 What I'm Currently Learning
-
-- **Programming Logic**  
-- **Portugol**  
-- **HTML**  
-- **Visual Studio Code (VS Code)**
-
----
-
 ## 🎯 Current Goals
 
-- Build simple projects to practice  
-- Improve my logical thinking  
-- Learn more about web development  
+- Start creating simple projects to practice  
+- Improve my logical thinking
+- Learn and improve new languages  
 - Create my portfolio and grow as a developer  
 
 ---
