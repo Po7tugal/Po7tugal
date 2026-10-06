@@ -1,5 +1,5 @@
 <div data-importer="image" align="center">
-  <img data-importer="image" src="./assets/bannerGit.png" width="100%" alt="banner" />
+  <img data-importer="image" src="bannerGit.png" width="100%" alt="banner" />
 </div>
 
 ###
