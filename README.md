@@ -42,12 +42,14 @@
 
 ###
 
-<h2 data-importer="text" align="center">Statistics</h2>
+<h2 align="center">Statistics</h2>
 
-###
+<div align="center">
 
-<div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/activity-graph-output/activity-graph.svg?radius=16&theme=tokyo-night&area=true&order=5" height="300" alt="activity-graph graph"  />
+<img src="https://github-readme-stats.vercel.app/api?username=Po7tugal&show_icons=true&theme=tokyonight" height="180">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Po7tugal&theme=tokyo-night" height="300">
+
 </div>
 
 ###
