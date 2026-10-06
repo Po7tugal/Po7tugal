@@ -45,11 +45,8 @@
 <h2 align="center">Statistics</h2>
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Po7tugal&show_icons=true&theme=tokyonight" height="180">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Po7tugal&theme=tokyo-night" height="300">
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Po7tugal&theme=tokyo-night&hide_border=true" width="100%" />
+</div>
 </div>
 
 ###
