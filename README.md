@@ -42,11 +42,14 @@
 
 ###
 
-<h2 align="center">Activity</h2>
+<h2 data-importer="text" align="center">Statistics</h2>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Po7tugal&theme=tokyo-night&hide_border=true" width="100%" />
+###
+
+<div data-importer="stats" align="center">
+  <img src="https://raw.githubusercontent.com/Po7tugal/Po7tugal/activity-graph-output/activity-graph.svg?radius=16&theme=tokyo-night&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
+
 ###
 
 <h2 data-importer="text" align="center">About Me</h2>
