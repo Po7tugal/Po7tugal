@@ -42,6 +42,20 @@
 
 ###
 
+
+<div data-importer="activity" align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=0a192f&color=64b5f6&line=1e88e5&point=ffffff&area=true&area_color=1e88e5&hide_border=true" width="100%" alt="GitHub activity graph" />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Po7tugal&show_icons=true&hide_border=true&bg_color=0a192f&title_color=64b5f6&icon_color=1e88e5&text_color=e3f2fd" height="170" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Po7tugal&layout=compact&hide_border=true&bg_color=0a192f&title_color=64b5f6&text_color=e3f2fd" height="170" alt="Top languages" />
+</div>
+
+###
+
 <h2 data-importer="text" align="center">About Me</h2>
 
 ###
@@ -51,3 +65,31 @@
 ###
 
 <p data-importer="text" align="left">Hi! I'm Filipe, a programming student passionate about technology and software development. I enjoy building projects, solving problems, and constantly learning new things.  <br>Currently working with C, C++, Java, JavaScript, React, Node.js, and SQL, with a particular interest in software development, artificial intelligence, and cybersecurity.</p>
+
+###
+
+<h2 data-importer="text" align="center">Goals</h2>
+
+###
+
+<img data-importer="image" align="right" height="300" src="goals.png" alt="goals" />
+
+###
+
+<p data-importer="text" align="left">
+  These are the goals I'm working toward:
+  <br><br>
+  Finish my degree and keep growing as a developer<br>
+  Build serious projects for my portfolio<br>
+  Dive deeper into artificial intelligence<br>
+  Land my first professional opportunity in tech
+</p>
+
+<br clear="all" />
+
+###
+
+<h2 data-importer="text" align="center">Activities</h2>
+
+###
+
