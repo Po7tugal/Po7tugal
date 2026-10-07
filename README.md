@@ -50,7 +50,7 @@
 ###
 
 <div data-importer="activity" align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Po7tugal&bg_color=0a192f&color=64b5f6&line=1e88e5&point=ffffff&area=true&area_color=1e88e5&hide_border=true" width="100%" alt="GitHub activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Po7tugal&bg_color=0a192f&color=64b5f6&line=1e88e5&point=ffffff&area=true&area_color=1e88e5&hide_border=true" width="100%"" />
 </div>
 
 ###
