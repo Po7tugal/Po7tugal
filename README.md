@@ -62,21 +62,4 @@
 
 <br clear="all" />
 
-<h2 align="center"><i>Hobbies & Goals</i></h2>
 
-<img align="right" height="250" src="goals.png" alt="goals" />
-
-<p align="center">
-  Programming student turning ideas into code.<br>
-  <i>"Write your favorite quote here."</i> — <b>Author</b>.
-</p>
-
-<p align="center">
-  🎯 Finish my degree and keep growing as a developer<br>
-  💼 Build serious projects for my portfolio<br>
-  🤖 Dive deeper into artificial intelligence<br>
-  🔐 Explore the field of cybersecurity<br>
-  🚀 Land my first professional opportunity in tech
-</p>
-
-<br clear="all" />
