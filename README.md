@@ -82,7 +82,7 @@
 
 ###
 
-<img data-importer="image" align="right" height="300" src="goals.jpeg" alt="goals" />
+<img data-importer="image" align="right" height="300" src="goals.jpg" alt="goals" />
 
 ###
 
