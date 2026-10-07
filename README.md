@@ -50,7 +50,14 @@
 ###
 
 <div data-importer="activity" align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Po7tugal&bg_color=0a192f&color=64b5f6&line=1e88e5&point=ffffff&area=true&area_color=1e88e5&hide_border=true&radius=10" width="100%"" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=0a192f&color=64b5f6&line=1e88e5&point=ffffff&area=true&area_color=1e88e5&hide_border=true" width="100%" alt="GitHub activity graph" />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&bg_color=0a192f&title_color=64b5f6&icon_color=1e88e5&text_color=e3f2fd" height="170" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&bg_color=0a192f&title_color=64b5f6&text_color=e3f2fd" height="170" alt="Top languages" />
 </div>
 
 ###
