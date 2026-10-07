@@ -82,7 +82,7 @@
   Finish my degree and keep growing as a developer<br>
   Build serious projects for my portfolio<br>
   Dive deeper into artificial intelligence<br>
-  Land my first professional opportunity in tech
+  Land my first professional opportunity in tech<br>
 </p>
 
 <br clear="all" />
