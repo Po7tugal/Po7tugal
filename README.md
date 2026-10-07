@@ -74,28 +74,5 @@
 
 ###
 
-<h2 data-importer="text" align="center">Goals</h2>
 
-###
-
-<img data-importer="image" align="right" height="300" src="goals.png" alt="goals" />
-
-###
-
-<p data-importer="text" align="left">
-  These are the goals I'm working toward:
-  <br><br>
-  Finish my degree and keep growing as a developer<br>
-  Build serious projects for my portfolio<br>
-  Dive deeper into artificial intelligence<br>
-  Land my first professional opportunity in tech<br>
-</p>
-
-<br clear="all" />
-
-###
-
-<h2 data-importer="text" align="center">Activities</h2>
-
-###
 
