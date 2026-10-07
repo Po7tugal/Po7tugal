@@ -46,7 +46,7 @@
 
 ###
 
-<img data-importer="image" align="left" height="300" src="./assets/pixel.png" alt="pixel art" />
+<img data-importer="image" align="left" height="300" src="pixel.png" alt="pixel art" />
 
 ###
 
