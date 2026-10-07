@@ -50,7 +50,7 @@
 ###
 
 <div data-importer="activity" align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Po7tugal&bg_color=0a192f&color=64b5f6&line=1e88e5&point=ffffff&area=true&area_color=1e88e5&hide_border=true" width="100%"" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Po7tugal&bg_color=0a192f&color=64b5f6&line=1e88e5&point=ffffff&area=true&area_color=1e88e5&hide_border=true&radius=10" width="100%" alt="GitHub activity graph" />
 </div>
 
 ###
@@ -74,5 +74,28 @@
 
 ###
 
+<br clear="all" />
+
+###
+
+<h2 data-importer="text" align="center">Goals</h2>
+
+###
+
+<img data-importer="image" align="right" height="300" src="goals.png" alt="goals" />
+
+###
+
+<p data-importer="text" align="left">
+  These are the goals I'm working toward:
+  <br><br>
+  🎯 Finish my degree and keep growing as a developer<br>
+  💼 Build serious projects for my portfolio<br>
+  🤖 Dive deeper into artificial intelligence<br>
+  🔐 Explore the field of cybersecurity<br>
+  🚀 Land my first professional opportunity in tech
+</p>
+
+###
 
 
