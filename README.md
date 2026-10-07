@@ -47,7 +47,7 @@
 ###
 
 <div data-importer="stats" align="center">
-  <img src="https://streak-stats.demolab.com?user=Po7tugal&theme=tokyo-night&hide_border=true" height="180" alt="github streak" />
+  <img src="https://raw.githubusercontent.com/Po7tugal/Po7tugal/activity-graph-output/activity-graph.svg?radius=16&theme=tokyo-night&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
