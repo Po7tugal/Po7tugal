@@ -6,9 +6,6 @@
   <a href="https://www.linkedin.com/in/filipe-portugal-88a3b8392/" target="_blank">
     <img src="https://img.shields.io/badge/-LINKEDIN-0B2447?style=for-the-badge&logo=linkedin&logoColor=white" height="25" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/Po7tugal" target="_blank">
-    <img src="https://img.shields.io/badge/-GITHUB-4F7CAC?style=for-the-badge&logo=github&logoColor=white" height="25" alt="GitHub" />
-  </a>
   <a href="mailto:a14812@oficina.pt">
     <img src="https://img.shields.io/badge/-EMAIL-0B2447?style=for-the-badge&logo=gmail&logoColor=white" height="25" alt="Email" />
   </a>
