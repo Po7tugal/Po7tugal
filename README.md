@@ -47,7 +47,7 @@
 ###
 
 <div data-importer="stats" align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Po7tugal&theme=tokyo-night&area=true&radius=16&hide_border=true" width="100%" alt="activity graph" />
+  <img src="https://streak-stats.demolab.com?user=Po7tugal&theme=tokyo-night&hide_border=true" height="180" alt="github streak" />
 </div>
 
 ###
