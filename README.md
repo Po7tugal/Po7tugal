@@ -50,7 +50,7 @@
 </p>
 
 <p align="center">
-  I work across the stack with <b>C, C++, Java, JavaScript, React, Node.js, and SQL</b>. Recently I've been building real projects, including a restaurant reservation system and a word game that uses gesture recognition for Portuguese Sign Language.
+  I work across the stack with <b>C, C++, Java, JavaScript, React, Node.js, and SQL</b>. 
 </p>
 
 <p align="center">
@@ -58,5 +58,3 @@
 </p>
 
 <br clear="all" />
-
-quero melhorar esse readme da minha conta, quero algo muito criativo, profissional, lindo visualmente, me pergunte os textos necessarios
