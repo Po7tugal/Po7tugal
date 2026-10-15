@@ -1,22 +1,11 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B2447,100:4F7CAC&height=220&section=header&text=Filipe%20Portugal&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Programming%20Student%20%7C%20Software%20%26%20Embedded&descAlignY=58&descSize=18" width="100%" alt="banner" />
+  <img src="bannerGit.png" width="100%" alt="banner" />
 </div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=64B5F6&center=true&vCenter=true&width=640&lines=Building+projects+that+solve+real+problems;From+Arduino+circuits+to+React+interfaces;Learning+something+new+every+day;Open+to+internships+and+collaborations" alt="Typing SVG" />
-</div>
-
-<br>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/filipe-portugal-88a3b8392/" target="_blank">
     <img src="https://img.shields.io/badge/-LINKEDIN-0B2447?style=for-the-badge&logo=linkedin&logoColor=white" height="25" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/Po7tugal" target="_blank">
-    <img src="https://img.shields.io/badge/-GITHUB-4F7CAC?style=for-the-badge&logo=github&logoColor=white" height="25" alt="GitHub" />
-  </a>
-  <img src="https://img.shields.io/badge/-PORTUGAL-0B2447?style=for-the-badge&logo=googlemaps&logoColor=white" height="25" alt="Location" />
-  <img src="https://img.shields.io/badge/-OPEN%20TO%20WORK-4F7CAC?style=for-the-badge&logo=target&logoColor=white" height="25" alt="Open to work" />
 </div>
 
 ---
@@ -32,11 +21,10 @@ I like turning ideas into working projects, from a small circuit with **Arduino*
 ```js
 const filipe = {
   role: "Programming Student",
-  location: "Portugal",
-  focus: ["Full-Stack Web", "Embedded Systems", "Clean Code"],
-  currentlyLearning: ["TypeScript", "Docker", "Data Structures & Algorithms"],
-  funFact: "I debug with console.log and I'm not ashamed of it",
-  lookingFor: "Internships, teams to learn from, and cool projects",
+  currentlyLearning: ["SQL"],
+  nextUp: ["Lua"],
+  interests: ["Artificial Intelligence", "Projects that help society"],
+  goal: "Keep growing my knowledge in the field",
 };
 ```
 
@@ -47,33 +35,24 @@ const filipe = {
 <h2 align="center"><i>Technologies</i></h2>
 
 <div align="center">
-
-**Languages**
-
-<img src="https://img.shields.io/badge/-C-0B2447?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-<img src="https://img.shields.io/badge/-C++-4F7CAC?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
-<img src="https://img.shields.io/badge/-JAVA-0B2447?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-<img src="https://img.shields.io/badge/-JAVASCRIPT-4F7CAC?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
-<img src="https://img.shields.io/badge/-PYTHON-0B2447?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-
-**Frontend**
-
-<img src="https://img.shields.io/badge/-REACT-4F7CAC?style=for-the-badge&logo=react&logoColor=white" alt="React" />
-<img src="https://img.shields.io/badge/-VITE-0B2447?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
-<img src="https://img.shields.io/badge/-HTML5-4F7CAC?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-<img src="https://img.shields.io/badge/-CSS3-0B2447?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-
-**Backend & Databases**
-
-<img src="https://img.shields.io/badge/-NODE.JS-4F7CAC?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-<img src="https://img.shields.io/badge/-MYSQL-0B2447?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-<img src="https://img.shields.io/badge/-POSTGRESQL-4F7CAC?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-<img src="https://img.shields.io/badge/-SUPABASE-0B2447?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
-
-**Hardware**
-
-<img src="https://img.shields.io/badge/-ARDUINO-4F7CAC?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" />
-
+  <img src="https://img.shields.io/badge/-C-0B2447?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/-C++-4F7CAC?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/-JAVA-0B2447?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/-JAVASCRIPT-4F7CAC?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/-PYTHON-0B2447?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/-PHP-4F7CAC?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <br>
+  <img src="https://img.shields.io/badge/-ARDUINO-0B2447?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" />
+  <img src="https://img.shields.io/badge/-REACT-4F7CAC?style=for-the-badge&logo=react&logoColor=white" alt="React" />
+  <img src="https://img.shields.io/badge/-NODE.JS-0B2447?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/-VITE-4F7CAC?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
+  <img src="https://img.shields.io/badge/-HTML5-0B2447?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/-CSS3-4F7CAC?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <br>
+  <img src="https://img.shields.io/badge/-MYSQL-0B2447?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/-POSTGRESQL-4F7CAC?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/-SUPABASE-0B2447?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
+  <img src="https://img.shields.io/badge/-GIT-4F7CAC?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </div>
 
 ---
@@ -81,33 +60,11 @@ const filipe = {
 <h2 align="center"><i>Tools & Software</i></h2>
 
 <div align="center">
-
-| Category | Tools |
-|:--|:--|
-| **Editors / IDEs** | <img src="https://img.shields.io/badge/-VS%20Code-0B2447?style=flat-square&logo=visualstudiocode&logoColor=white" /> <img src="https://img.shields.io/badge/-Arduino%20IDE-4F7CAC?style=flat-square&logo=arduino&logoColor=white" /> <img src="https://img.shields.io/badge/-IntelliJ%20IDEA-0B2447?style=flat-square&logo=intellijidea&logoColor=white" /> |
-| **Version control** | <img src="https://img.shields.io/badge/-Git-4F7CAC?style=flat-square&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/-GitHub-0B2447?style=flat-square&logo=github&logoColor=white" /> |
-| **Design & Prototyping** | <img src="https://img.shields.io/badge/-Figma-4F7CAC?style=flat-square&logo=figma&logoColor=white" /> <img src="https://img.shields.io/badge/-Canva-0B2447?style=flat-square&logo=canva&logoColor=white" /> |
-| **API & Testing** | <img src="https://img.shields.io/badge/-Postman-4F7CAC?style=flat-square&logo=postman&logoColor=white" /> |
-| **Productivity** | <img src="https://img.shields.io/badge/-Notion-0B2447?style=flat-square&logo=notion&logoColor=white" /> <img src="https://img.shields.io/badge/-Discord-4F7CAC?style=flat-square&logo=discord&logoColor=white" /> |
-| **AI Assistants** | <img src="https://img.shields.io/badge/-Claude-0B2447?style=flat-square&logo=anthropic&logoColor=white" /> |
-
+  <img src="https://img.shields.io/badge/-VS%20CODE-0B2447?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/-GITHUB-4F7CAC?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/-CODE::BLOCKS-0B2447?style=for-the-badge&logo=codeblocks&logoColor=white" alt="Code::Blocks" />
+  <img src="https://img.shields.io/badge/-MYSQL%20WORKBENCH-4F7CAC?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Workbench" />
 </div>
-
----
-
-<h2 align="center"><i>Featured Projects</i></h2>
-
-<div align="center">
-
-| Project | Description | Stack |
-|:--|:--|:--|
-| 🔹 **Project Name** | One line explaining what it does and why it's cool. | `React` `Supabase` |
-| 🔹 **Project Name** | One line explaining what it does and why it's cool. | `Arduino` `C++` |
-| 🔹 **Project Name** | One line explaining what it does and why it's cool. | `Java` |
-
-</div>
-
-> 💡 Replace these rows with your best repositories, linking each one (`[Project Name](https://github.com/Po7tugal/repo)`).
 
 ---
 
@@ -118,21 +75,17 @@ const filipe = {
     <td width="50%" valign="top">
 
 **🎯 Short term**
-- [x] Build a solid base in C, Java and Python
-- [x] Create my first full-stack projects
-- [ ] Learn TypeScript
-- [ ] Get comfortable with Docker
-- [ ] Land an internship
+- [ ] Improve my skills and knowledge
+- [ ] Get better in the languages I already know
+- [ ] Learn new languages (starting with **Lua**)
+- [ ] Learn more about **AI**
+- [ ] Build projects that help society
 
   </td>
     <td width="50%" valign="top">
 
 **🚀 Long term**
-- [ ] Become a full-stack developer
-- [ ] Combine software and hardware in IoT projects
-- [ ] Contribute to open source
-- [ ] Deploy a project used by real people
-- [ ] Never stop learning
+- [ ] Have much more knowledge and experience in the field
 
   </td>
   </tr>
@@ -167,10 +120,4 @@ const filipe = {
   <a href="https://www.linkedin.com/in/filipe-portugal-88a3b8392/" target="_blank">
     <img src="https://img.shields.io/badge/-Message%20me%20on%20LinkedIn-0B2447?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F7CAC,100:0B2447&height=120&section=footer" width="100%" alt="footer" />
 </div>
