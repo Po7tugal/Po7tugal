@@ -27,8 +27,6 @@ I like turning ideas into working projects, from a small circuit with **Arduino*
 ```js
 const filipe = {
   role: "Programming Student",
-  currentlyLearning: ["SQL"],
-  nextUp: ["Lua"],
   interests: ["Artificial Intelligence", "Projects that help society"],
   goal: "Keep growing my knowledge in the field",
 };
