@@ -76,50 +76,25 @@ const filipe = {
 
 <h2 align="center"><i>Goals</i></h2>
 
-<h3 align="center">🧭 My learning path</h3>
+```sql
+SELECT goal, status
+FROM   goals
+ORDER  BY priority;
+```
 
-<div align="center">
-  <img src="https://img.shields.io/badge/-%F0%9F%93%98%20NOW%20%E2%80%A2%20SQL-0B2447?style=for-the-badge" alt="Now: SQL" />
-  <img src="https://img.shields.io/badge/-%E2%9E%9C-4F7CAC?style=for-the-badge" alt="arrow" />
-  <img src="https://img.shields.io/badge/-%F0%9F%8C%99%20NEXT%20%E2%80%A2%20LUA-4F7CAC?style=for-the-badge&logo=lua&logoColor=white" alt="Next: Lua" />
-  <img src="https://img.shields.io/badge/-%E2%9E%9C-0B2447?style=for-the-badge" alt="arrow" />
-  <img src="https://img.shields.io/badge/-%F0%9F%A4%96%20EXPLORING%20%E2%80%A2%20AI-0B2447?style=for-the-badge" alt="Exploring: AI" />
-</div>
-
-<br>
-
-<table align="center">
-  <tr>
-    <td align="center" width="25%">
-      <h1>🚀</h1>
-      <b>Level up</b><br>
-      <sub>Improve my skills<br>and knowledge</sub>
-    </td>
-    <td align="center" width="25%">
-      <h1>💻</h1>
-      <b>Sharpen</b><br>
-      <sub>Get better in the<br>languages I already know</sub>
-    </td>
-    <td align="center" width="25%">
-      <h1>🌱</h1>
-      <b>Explore</b><br>
-      <sub>Learn new languages,<br>starting with Lua</sub>
-    </td>
-    <td align="center" width="25%">
-      <h1>🤝</h1>
-      <b>Impact</b><br>
-      <sub>Build projects that<br>help society</sub>
-    </td>
-  </tr>
-</table>
-
-<br>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/-%F0%9F%94%AD%20LONG%20TERM-4F7CAC?style=for-the-badge" alt="Long term" />
-  <br><br>
-  <i>"To look back and see how far my knowledge in the field has come."</i>
-</div>
+```text
++----------------------------------------+-------------+
+| goal                                   | status      |
++----------------------------------------+-------------+
+| improve my skills and knowledge        | in progress |
+| get better at the languages I know     | in progress |
+| learn new languages, starting with Lua | next        |
+| learn about AI                         | exploring   |
+| build projects that help society       | always      |
+| have more knowledge in the field       | long term   |
++----------------------------------------+-------------+
+6 rows in set
+```
 
 ---
 
@@ -155,7 +130,5 @@ const filipe = {
 <br>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=64B5F6&center=true&vCenter=true&width=520&lines=Thanks+for+stopping+by!;Let's+build+something+great+together" alt="Thanks for visiting" />
+  <img src="footer.svg" width="100%" alt="terminal footer" />
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B2447,100:4F7CAC&height=140&section=footer&animation=twinkling" width="100%" alt="footer" />
